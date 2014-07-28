@@ -13,3 +13,16 @@ body
 {
 background-image:url('https://cloud.githubusercontent.com/assets/5033756/3725371/15ea8b04-1688-11e4-87c4-e83edad58603.JPG');
 }
+
+Footer {
+display:block;
+position: absolute;
+bottom: 0;
+width: 100%;
+height: 141px;
+background-color: Black;
+}
+
+p {
+  color:White;
+}
