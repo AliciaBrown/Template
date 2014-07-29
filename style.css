@@ -5,9 +5,8 @@ nav{
   float: left;
   display: inline;
   margin: 0;
-  padding: 20;
+  padding: 20px;
   margin-right: 10px;
-  opacity: 0.6;
 }
 
 body
@@ -35,7 +34,6 @@ li {
 }
 
 .well {
-  padding: 20;
-  opacity: 0.6;
+  padding: 20px;
   
 }
