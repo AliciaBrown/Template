@@ -34,6 +34,8 @@ li {
   color:Black;
 }
 
-#color {
-  color:white;
+.well {
+  padding: 20;
+  opacity: 0.6;
+  
 }
