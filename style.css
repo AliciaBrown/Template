@@ -53,3 +53,7 @@ li {
 .White {
   color:White;
 }
+
+#signup {
+   float: right;
+}
