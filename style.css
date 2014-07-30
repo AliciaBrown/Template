@@ -40,8 +40,8 @@ li {
 
 .well {
   padding: 20px;
-  
-h1 {
+}
+#header {
   color:White;
   font-size: 50px;
 }
