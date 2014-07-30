@@ -38,9 +38,6 @@ li {
   color:Black;
 }
 
-.well {
-  padding: 20px;
-}
 #header {
   color:White;
   font-size: 60px;
@@ -50,9 +47,6 @@ li {
   margin-top: 100px;
 }
 
-.White {
-  color:White;
-}
 
 #signup {
    float: right;
