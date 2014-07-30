@@ -42,3 +42,8 @@ li {
   padding: 20px;
   
 }
+
+/* unvisited link */
+a:link {
+    color:White;
+}
