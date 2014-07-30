@@ -88,7 +88,7 @@ body {
   position: relative;
   margin: 20px -20px -20px;
   padding: 15px;
-  background: #fafafa;
+  background: ;
   border-top: 1px solid #ccc;
   border-radius: 0 0 6px 6px;
   @include linear-gradient(top, #fafafa, #eaeaea 50%, #e1e1e1 51%, #f2f2f2);
