@@ -42,6 +42,7 @@ li {
   color:White;
   font-size: 60px;
   margin-left: 50px;
+  float:left;
 }
 
 .navbar {
