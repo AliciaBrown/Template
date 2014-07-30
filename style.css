@@ -43,7 +43,25 @@ li {
   
 }
 
-/* visited link */
+
+
+/* unvisited link */
 a:link {
     color:White;
 }
+
+/* visited link */
+a:visited {
+    color:White;
+}
+
+/* mouse over link */
+a:hover {
+    color:White;
+}
+
+/* selected link */
+a:active {
+    color:White;
+}
+
