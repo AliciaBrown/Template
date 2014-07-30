@@ -13,7 +13,9 @@ nav{
 body
 {
 background-image:url('https://cloud.githubusercontent.com/assets/5033756/3752160/445604fe-1805-11e4-8914-3c767d1a551a.jpg');
-background-size: 1000px 1600px;
+background-size: cover;
+background-repeat: no-repeat;
+}
 }
 
 Footer {
