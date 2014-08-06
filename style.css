@@ -28,6 +28,10 @@ background-color: Black;
 opacity:0.9;
 }
 
+h1 {
+  font-family: 'Audiowide', cursive;
+}
+
 p {
   color:White;
   font-size: 30px;
