@@ -34,7 +34,7 @@ h1 {
 
 p {
   color:White;
-  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+  font-family: Futura ;
   font-size: 30px;
   text-align:center
 }
@@ -51,7 +51,7 @@ li {
 }
 
 .navbar {
-  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+  font-family: Futura ;
   margin-top: 100px;
   margin-left: 50px;
 }
