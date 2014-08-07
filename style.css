@@ -34,6 +34,8 @@ h1 {
 
 p {
   color:White;
+  font-stretch: condensed;
+  font-weight: bold;
   font-family: Futura ;
   font-size: 30px;
   text-align:center
