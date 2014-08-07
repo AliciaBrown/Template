@@ -26,6 +26,7 @@ width: 100%;
 height: 100px;
 background-color: Black;
 opacity:0.9;
+font-family: Futura, "Trebuchet MS", Arial, sans-serif;;
 }
 
 h1 {
@@ -50,6 +51,7 @@ li {
 }
 
 .navbar {
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
   margin-top: 100px;
   margin-left: 50px;
 }
